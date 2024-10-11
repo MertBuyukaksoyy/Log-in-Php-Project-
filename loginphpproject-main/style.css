@@ -1,0 +1,58 @@
+html{
+    background: url('https://www.dentalparklinik.com/wp-content/uploads/elementor/thumbs/disci-randevu-pld7n13ttvdrxmuhz4mc3opvryx1sx3iwhklvctono.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+   /* height: 100vh;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: inherit;
+}
+
+.register {
+    width: 360px;
+    height: min-content;
+    padding: 20px;
+    border-radius: 12px;
+    background: white;
+    margin-top: 50px;
+    margin-right: 35px;
+}
+
+.register h3 {
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+
+.register form {
+    font-size: 20px;
+}
+
+.register form .form-group {
+    margin-bottom: 12px;
+}
+
+.register form input[type="submit"] {
+    font-size: 20px;
+    margin-top: 15px;
+}
+.login{
+    width: 350px;
+    height: 300px;
+    margin-top: 70px;
+    margin-right: 35px;
+}
+.randevu{
+    width: 350px;
+    height: 300px;
+    margin-top: 70px;
+    margin-right: 35px;
+}
